@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+
+body {
+    background: #303030;
+}
+
+h1 {
+    color: #fff;
+}
+
+body nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body div {
+    display:list-item
+}
